@@ -5,7 +5,7 @@
 * [Firebase as a Backend](#Firebase-as-a-Backend)<br>
 * [Angular Client App](#Angular-Client-App)<br>
 
-## Anatomy of HTTP Request
+## Anatomy of HTTP Requests
 
 ​	[:arrow_up:](#Table-of-Contents )<br>
 
