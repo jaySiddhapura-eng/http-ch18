@@ -1,5 +1,10 @@
 # HTTP Requests
 
+## Table of Contents  
+* [Anatomy of HTTP Requests](#Anatomy-of-HTTP-Requests)<br>
+* [Firebase as a Backend](#Firebase-as-a-Backend)<br>
+* [Angular Client App](#Angular-Client-App)<br>
+
 ## Anatomy of HTTP Requests
 
 1. URL 
@@ -16,7 +21,7 @@
    1. With some http verbs user can attach body to it
    2. eg. Post request
 
-## Firebase as a backend
+## Firebase as a Backend
 
 1. Firebase login using google account
 2. Create new project (add project)
@@ -25,7 +30,7 @@
 5. Select **Realtime Database** and choose **test mode**
 6. The URL which appears in created DB will be the URL for backend API
 
-## Angular client app
+## Angular Client App
 
 1. Import HTTP Client Module in ```app.module.ts```
 
