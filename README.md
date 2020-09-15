@@ -7,7 +7,7 @@
 
 ## Anatomy of HTTP Requests
 
-​	[:arrow_up:](#Table-of-Contents )<br>
+## 	[:arrow_up:](#Table-of-Contents )<br>
 
 1. URL 
    1. Basically a rest end point
@@ -25,7 +25,7 @@
 
 ## Firebase as a Backend 
 
-​	[:arrow_up:](#Table-of-Contents )<br>
+## 	[:arrow_up:](#Table-of-Contents )<br>
 
 
 1. Firebase login using google account
@@ -37,7 +37,7 @@
 
 ## Angular Client App 
 
-​	[:arrow_up:](#Table-of-Contents )<br>
+## 	[:arrow_up:](#Table-of-Contents )<br>
 
 1. Import HTTP Client Module in ```app.module.ts```
 
